@@ -1,0 +1,1 @@
+*This is just my testing phase using GitKraken, integrated with Intellij IDEA.*
